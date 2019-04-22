@@ -1,1 +1,1 @@
-# osu-Replays-Latino-Skins
+# osu! Replays Latino - Skins de jugadores

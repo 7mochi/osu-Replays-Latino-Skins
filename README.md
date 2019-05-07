@@ -1,6 +1,6 @@
 # osu! Replays Latino - Skins de jugadores ![](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/raw/master/osu!Logo.png) 
 # [1. Arnold24x24](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/blob/master/Arnold24x24/Arnold24x24Skins.md) ![](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/raw/master/Banderas/PeruBandera.png)
-# [2. Axurtel](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/blob/master/Arnold24x24/AxurtelSkins.md) ![](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/raw/master/Banderas/PeruBandera.png)
+# [2. Axurtel](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/blob/master/Axurtel/AxurtelSkins.md) ![](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/raw/master/Banderas/PeruBandera.png)
 # [3. Julio1212-](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/blob/master/Julio1212-/Julio1212Skins.md) ![](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/raw/master/Banderas/PeruBandera.png)
 # [4. leynieR](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/blob/master/leynieR/leynieRSkins.md) ![](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/raw/master/Banderas/PeruBandera.png)
 # [5. Lohtric](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/blob/master/Lohtric/LohtricSkins.md) ![](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/raw/master/Banderas/MexicoBandera.png)

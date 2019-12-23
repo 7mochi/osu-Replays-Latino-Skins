@@ -10,4 +10,5 @@
 # [9. Meiph](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/blob/master/Meiph/MeiphSkins.md) ![](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/raw/master/Banderas/PeruBandera.png)
 # [10. Mei-senpai](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/blob/master/Mei-senpai/MeiSkins.md) ![](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/raw/master/Banderas/PeruBandera.png)
 # [11. Othi-Chan](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/blob/master/Othi-Chan/Othi-Chan.md) ![](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/raw/master/Banderas/PeruBandera.png)
-# [12. VelperK](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/blob/master/VelperK/VelperkSkins.md) ![](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/raw/master/Banderas/ArgentinaBandera.png)
+# [12. Zuleta_](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/blob/master/Zuleta/ZuletaSkins.md) ![](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/raw/master/Banderas/VenezuelaBandera.png)
+# [13. VelperK](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/blob/master/VelperK/VelperkSkins.md) ![](https://github.com/FlyingCat-X/osu-Replays-Latino-Skins/raw/master/Banderas/ArgentinaBandera.png)
